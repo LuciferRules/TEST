@@ -1,0 +1,3 @@
+# this .gitignore is used to ignore directories or files
+#logs/
+logs/*.log
